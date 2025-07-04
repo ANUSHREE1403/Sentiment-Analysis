@@ -1,9 +1,9 @@
 # Sentiment-Analysis
 
-Objective
+Objective :
 Build a sentiment analysis model to classify product reviews as positive ("good") or negative ("bad"), using Natural Language Processing (NLP) techniques and a Naive Bayes classifier.
 
-Tech Stack & Tools
+Tech Stack & Tools :
 
 
 Python
